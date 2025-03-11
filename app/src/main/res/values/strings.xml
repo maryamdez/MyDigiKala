@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="خانه">home</string>
+    <string name="category">دسته بندی ها</string>
+    <string name="bascket">سبد خرید</string>
+    <string name="magnet">مگنت</string>
+    <string name="me_digikala">دیجی کالای من</string>
+    <string name="profile">دیجی کالای من</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
